@@ -1,0 +1,34 @@
+# Archivos de compilación de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env/
+.Python
+
+# Archivos de configuración del editor
+.vscode/
+
+# Archivos de entorno
+*.env
+.env.local
+
+# Archivos de log
+*.log
+
+# Directorios de pruebas y reportes de cobertura
+.tox/
+.nox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Distribución de paquetes
+dist/
+build/
+*.egg-info/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
