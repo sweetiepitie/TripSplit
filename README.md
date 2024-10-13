@@ -1,6 +1,7 @@
 ## TripSplit
 
-### Cliente: Grupo de personas que viajan juntos
+### Cliente:
+Grupo de personas que viajan juntos.
 
 ### Descrición del problema
 
